@@ -84,7 +84,7 @@ Hello! This is where I will put all the material for BCP. If any of the links do
 
 [Lecture Slides](Lecture-Slides/04-BCP-REACTO.pptx)
 
-<**[Live Lecture (REACTO)](https://youtu.be/nRSler1WJbs)**
+**[Live Lecture (REACTO)](https://youtu.be/nRSler1WJbs)**
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5ac574e51abd3200043c12e8/content/5ac574e51abd3200043c12ed/text)
 
