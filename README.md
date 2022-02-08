@@ -138,7 +138,7 @@ Hello! This is where I will put all the material for BCP. If any of the links do
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5ad399aa137d870004733bac/content/5ad399aa137d870004733bb1/text)
 
-[Lecture Slides](08-sudoku-validator/08-BCP-Sudoku.pptx)
+[Lecture Slides](Lecture-Slides/08-BCP-Sudoku.pptx)
 
 <!--**[Review](https://youtu.be/kYe2oNQmO04)**
 
