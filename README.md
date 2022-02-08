@@ -11,10 +11,10 @@ Hello! This is where I will put all the material for BCP. If any of the links do
 3. [Coercion And Truthiness](#03-coercion-and-truthiness)
 4. [Caesar Cypher](#04-caesar-cypher)
 5. [Scope](#05-scope)
-<!--6. [Arrays I](#06-arrays-I)
+6. [Arrays I](#06-arrays-I)
 7. [Arrays II](#07-arrays-ii)
 8. [Sudoku Validator](#08-sudoku-validator)
-9. [Objects](#09-objects)
+<!--9. [Objects](#09-objects)
 10. [Object Methods](#10-object-methods)
 11. [Pass by Value/Pass by Reference](#11-pass-by-valuepass-by-reference)
 12. [Higher Order Functions I](#12-higher-order-functions-i)
@@ -110,7 +110,7 @@ Hello! This is where I will put all the material for BCP. If any of the links do
 [Solutions](https://learn.fullstackacademy.com/workshop/5ac576417ec3340004bdddb4/content/5ac576417ec3340004bdddba/text)
 
 
-<!--## **06 Arrays I**
+## **06 Arrays I**
 
 **[Live Lecture + Solutions](https://youtu.be/9C4qPsjl7sA)**
 
@@ -138,9 +138,9 @@ Hello! This is where I will put all the material for BCP. If any of the links do
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5ad399aa137d870004733bac/content/5ad399aa137d870004733bb1/text)
 
-**[Review](https://youtu.be/kYe2oNQmO04)**
-
 [Lecture Slides](08-sudoku-validator/08.BCP-Sudoku.pdf)
+
+<!--**[Review](https://youtu.be/kYe2oNQmO04)**
 
 [Solutions](https://learn.fullstackacademy.com/workshop/5ad399aa137d870004733bac/content/5ad399aa137d870004733bb2/text)
 
