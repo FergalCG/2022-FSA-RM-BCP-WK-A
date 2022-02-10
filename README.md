@@ -14,9 +14,9 @@ Hello! This is where I will put all the material for BCP. If any of the links do
 6. [Arrays I](#06-arrays-I)
 7. [Arrays II](#07-arrays-ii)
 8. [Sudoku Validator](#08-sudoku-validator)
-<!--9. [Objects](#09-objects)
+9. [Objects](#09-objects)
 10. [Object Methods](#10-object-methods)
-11. [Pass by Value/Pass by Reference](#11-pass-by-valuepass-by-reference)
+<!--11. [Pass by Value/Pass by Reference](#11-pass-by-valuepass-by-reference)
 12. [Higher Order Functions I](#12-higher-order-functions-i)
 13. [Higher Order Functions II](#13-higher-order-functions-ii)
 14. [Recursion I](#14-recursion-i)
@@ -88,11 +88,11 @@ Hello! This is where I will put all the material for BCP. If any of the links do
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5ac574e51abd3200043c12e8/content/5ac574e51abd3200043c12ed/text)
 
-<!--[Solutions](https://learn.fullstackacademy.com/workshop/5ac574e51abd3200043c12e8/content/5ac574e51abd3200043c12ee/text)
+[Solutions](https://learn.fullstackacademy.com/workshop/5ac574e51abd3200043c12e8/content/5ac574e51abd3200043c12ee/text)
 
 **[Solution - Caesar Cypher](https://youtu.be/AN2fwt0n454)**
 
-**[Solution - Find Missing Number](https://youtu.be/20DegeggnKY)**-->
+**[Solution - Find Missing Number](https://youtu.be/20DegeggnKY)**
 
 
 
@@ -142,12 +142,12 @@ Hello! This is where I will put all the material for BCP. If any of the links do
 
 <!--**[Review](https://youtu.be/kYe2oNQmO04)**
 
-[Solutions](https://learn.fullstackacademy.com/workshop/5ad399aa137d870004733bac/content/5ad399aa137d870004733bb2/text)
+[Solutions](https://learn.fullstackacademy.com/workshop/5ad399aa137d870004733bac/content/5ad399aa137d870004733bb2/text)-->
 
 
 ## **09 Objects**
 
-**[Live Lecture + Review](https://youtu.be/Ohx6js98fkE)**
+**[Live Lecture + Review](https://youtu.be/8WO9DpQIPcs)**
 
 [Lecture Slides](Lecture-Slides/07-Objects.pptx)
 
@@ -164,7 +164,7 @@ Hello! This is where I will put all the material for BCP. If any of the links do
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5ac57cb8bd9f9e0004adb24a/content/5ac57cb8bd9f9e0004adb24e/text)
 
-[Solutions](https://learn.fullstackacademy.com/workshop/5ac57cb8bd9f9e0004adb24a/content/5ac57cb8bd9f9e0004adb250/text)
+<!--[Solutions](https://learn.fullstackacademy.com/workshop/5ac57cb8bd9f9e0004adb24a/content/5ac57cb8bd9f9e0004adb250/text)
 
 ## **11 Pass by Value/Pass by Reference**
 
