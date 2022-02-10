@@ -15,8 +15,8 @@ Hello! This is where I will put all the material for BCP. If any of the links do
 7. [Arrays II](#07-arrays-ii)
 8. [Sudoku Validator](#08-sudoku-validator)
 9. [Objects](#09-objects)
-10. [Object Methods](#10-object-methods)
-<!--11. [Pass by Value/Pass by Reference](#11-pass-by-valuepass-by-reference)
+<!--10. [Object Methods](#10-object-methods)
+11. [Pass by Value/Pass by Reference](#11-pass-by-valuepass-by-reference)
 12. [Higher Order Functions I](#12-higher-order-functions-i)
 13. [Higher Order Functions II](#13-higher-order-functions-ii)
 14. [Recursion I](#14-recursion-i)
@@ -156,15 +156,15 @@ Hello! This is where I will put all the material for BCP. If any of the links do
 [Solutions](https://learn.fullstackacademy.com/workshop/5ac57b3ebd9f9e0004adb210/content/5ac57b3ebd9f9e0004adb216/text)
 
 
-## **10 Object Methods**
+<!--## **10 Object Methods**
 
-**[Live Lecture](https://youtu.be/a9xth_Gj-Tw)**
+**[Live Lecture + Review](https://youtu.be/a9xth_Gj-Tw)**
 
 [Lecture Slides](Lecture-Slides/08-Object-Methods.pptx)
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5ac57cb8bd9f9e0004adb24a/content/5ac57cb8bd9f9e0004adb24e/text)
 
-<!--[Solutions](https://learn.fullstackacademy.com/workshop/5ac57cb8bd9f9e0004adb24a/content/5ac57cb8bd9f9e0004adb250/text)
+[Solutions](https://learn.fullstackacademy.com/workshop/5ac57cb8bd9f9e0004adb24a/content/5ac57cb8bd9f9e0004adb250/text)
 
 ## **11 Pass by Value/Pass by Reference**
 
