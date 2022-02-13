@@ -19,7 +19,7 @@ Hello! This is where I will put all the material for BCP. If any of the links do
 11. [Pass by Value/Pass by Reference](#11-pass-by-valuepass-by-reference)
 12. [Higher Order Functions I](#12-higher-order-functions-i)
 13. [Higher Order Functions II](#13-higher-order-functions-ii)
-<!--14. [Recursion I](#14-recursion-i)
+14. [Recursion I](#14-recursion-i)
 15. [Recursion II](#15-recursion-ii)
 16. [Next Steps](#16-next-steps)-->
 
@@ -185,7 +185,7 @@ Hello! This is where I will put all the material for BCP. If any of the links do
 
 ## **13 Higher Order Functions II**
 
-**[Live Lecture](https://youtu.be/-_7R_j61UZ0)**
+**[Live Lecture + Review](https://youtu.be/-_7R_j61UZ0)**
 
 [Lecture Slides](Lecture-Slides/11-Higher-order-Functions-II.pptx)
 
@@ -193,9 +193,9 @@ Hello! This is where I will put all the material for BCP. If any of the links do
 
 [Solutions](https://learn.fullstackacademy.com/workshop/5aca4075097e670004598a96/content/5aca4075097e670004598a9c/text)
 
-<!--## **14 Recursion I**
+## **14 Recursion I**
 
-**[Live Lecture](https://youtu.be/J5lk5cmJlkM)**
+**[Live Lecture + Review](https://youtu.be/J5lk5cmJlkM)**
 
 [Lecture Slides](Lecture-Slides/12-Recursion-I.pptx)
 
@@ -205,7 +205,7 @@ Hello! This is where I will put all the material for BCP. If any of the links do
 
 ## **15 Recursion II**
 
-**[Live Lecture](https://youtu.be/ebkwM9Oi5DI)**
+**[Live Lecture + Review](https://youtu.be/zBghZMnA0mk)**
 
 [Lecture Slides](Lecture-Slides/13-Recursion-II.pptx)
 
@@ -220,4 +220,3 @@ Hello! This is where I will put all the material for BCP. If any of the links do
 [Lecture Slides](Lecture-Slides/14-Next-Steps.pptx)
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5aca5637c6f1bb0004fcdab0/landing)
--->
